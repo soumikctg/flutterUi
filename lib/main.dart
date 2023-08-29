@@ -1,6 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutterui/Screens/Front%20Page.dart';
 
+import 'Screens/new.dart';
+
+
 void main() {
   runApp(const MyApp());
 }
